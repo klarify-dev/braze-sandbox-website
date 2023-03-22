@@ -6,3 +6,5 @@
 
 Site is based on this template done with Tailwind CSS
 * [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
+
+> This project can be cloned to your machine and run by simply double clicking the index.html file ✌️
