@@ -13,4 +13,4 @@ jobs:
       with:
         server: linux61.unoeuro.com
         username: klarify-me.com
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.FTP_PASSWORD }}
