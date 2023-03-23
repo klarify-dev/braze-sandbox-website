@@ -14,4 +14,3 @@ jobs:
         server: linux61.unoeuro.com
         username: klarify-me.com
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: public_html/
